@@ -1,0 +1,116 @@
+{
+  "general_settings": {
+    "api_url": "https://api.bilyonersport.com/channel/",
+    "api_key": "eyJ1c2VySWQiOiJhZG1pbiJ9.cGGCvhLTzbal5oMubTkExL_8I9mJoLnM8mTR93O4as86P9OE8n2WaVFyr3UoEwrf5F5IqpXcjE2LPUmXTAR06w"
+  },
+  "streams": [
+    {
+      "streaming_name": "BEIN SPORTS 1",
+      "slug-code": "n6b927d36"
+    },
+    {
+      "streaming_name": "BEIN SPORTS 2",
+      "slug-code": "bein-sports-2"
+    },
+    {
+      "streaming_name": "BEIN SPORTS 3",
+      "slug-code": "bein-sports-3"
+    },
+    {
+      "streaming_name": "BEIN SPORTS 4",
+      "slug-code": "bein-sports-4"
+    },
+    {
+      "streaming_name": "BEIN SPORTS 5",
+      "slug-code": "bein-sports-5"
+    },
+    {
+      "streaming_name": "BEIN SPORTS MAX 1",
+      "slug-code": "bein-sports-max-1"
+    },
+    {
+      "streaming_name": "BEIN SPORTS MAX 2",
+      "slug-code": "bein-sports-max-2"
+    },
+    {
+      "streaming_name": "S SPORT",
+      "slug-code": "s-sport"
+    },
+    {
+      "streaming_name": "S SPORT 2",
+      "slug-code": "s-sport-2"
+    },
+    {
+      "streaming_name": "SMARTSPOR",
+      "slug-code": "smartspor"
+    },
+    {
+      "streaming_name": "SMARTSPOR 2",
+      "slug-code": "smartspor-2"
+    },
+    {
+      "streaming_name": "TIVIBU SPOR 1",
+      "slug-code": "tivibu-spor-1"
+    },
+    {
+      "streaming_name": "TIVIBU SPOR 2",
+      "slug-code": "tivibu-spor-2"
+    },
+    {
+      "streaming_name": "TIVIBU SPOR 3",
+      "slug-code": "tivibu-spor-3"
+    },
+    {
+      "streaming_name": "TIVIBU SPOR 4",
+      "slug-code": "tivibu-spor-4"
+    },
+    {
+      "streaming_name": "TRT SPOR",
+      "slug-code": "trt-spor"
+    },
+    {
+      "streaming_name": "TRT SPOR Yıldız",
+      "slug-code": "trt-spor-yildiz"
+    },
+    {
+      "streaming_name": "TRT 1",
+      "slug-code": "trt-1"
+    },
+    {
+      "streaming_name": "A SPOR",
+      "slug-code": "a-spor"
+    },
+    {
+      "streaming_name": "ATV",
+      "slug-code": "atv"
+    },
+    {
+      "streaming_name": "KANAL D",
+      "slug-code": "kanal-d"
+    },
+    {
+      "streaming_name": "TV 8",
+      "slug-code": "tv-8"
+    },
+    {
+      "streaming_name": "TV 8,5",
+      "slug-code": "tv-8-5"
+    },
+    {
+      "streaming_name": "NBA TV",
+      "slug-code": "nba-tv"
+    },
+    {
+      "streaming_name": "SKY SPORTS F1",
+      "slug-code": "sky-sports-f1"
+    },
+    {
+      "streaming_name": "EURO SPORT 1",
+      "slug-code": "euro-sport-1"
+    },
+    {
+      "streaming_name": "EURO SPORT 2",
+      "slug-code": "euro-sport-2"
+    }
+  ]
+}
