@@ -34,43 +34,43 @@
     },
     {
       "streaming_name": "S SPORT",
-      "slug-code": "s-sport"
+      "slug-code": "532e343d"
     },
     {
       "streaming_name": "S SPORT 2",
-      "slug-code": "s-sport-2"
+      "slug-code": "n62a03282"
     },
     {
       "streaming_name": "SMARTSPOR",
-      "slug-code": "smartspor"
+      "slug-code": "25c8edb5"
     },
     {
       "streaming_name": "SMARTSPOR 2",
-      "slug-code": "smartspor-2"
+      "slug-code": "n6ca39dcf"
     },
     {
       "streaming_name": "TIVIBU SPOR 1",
-      "slug-code": "tivibu-spor-1"
+      "slug-code": "n3e79302e"
     },
     {
       "streaming_name": "TIVIBU SPOR 2",
-      "slug-code": "tivibu-spor-2"
+      "slug-code": "n3e78bbcf"
     },
     {
       "streaming_name": "TIVIBU SPOR 3",
-      "slug-code": "tivibu-spor-3"
+      "slug-code": "n3e784770"
     },
     {
       "streaming_name": "TIVIBU SPOR 4",
-      "slug-code": "tivibu-spor-4"
+      "slug-code": "n3e77d311"
     },
     {
       "streaming_name": "TRT SPOR",
-      "slug-code": "trt-spor"
+      "slug-code": "4fb22bd4"
     },
     {
       "streaming_name": "TRT SPOR Yıldız",
-      "slug-code": "trt-spor-yildiz"
+      "slug-code": "n166ce315"
     },
     {
       "streaming_name": "TRT 1",
@@ -78,7 +78,7 @@
     },
     {
       "streaming_name": "A SPOR",
-      "slug-code": "a-spor"
+      "slug-code": "n4f37cc01"
     },
     {
       "streaming_name": "ATV",
@@ -98,19 +98,15 @@
     },
     {
       "streaming_name": "NBA TV",
-      "slug-code": "nba-tv"
-    },
-    {
-      "streaming_name": "SKY SPORTS F1",
-      "slug-code": "sky-sports-f1"
+      "slug-code": "n5a6b4b7"
     },
     {
       "streaming_name": "EURO SPORT 1",
-      "slug-code": "euro-sport-1"
+      "slug-code": "n43db7ec"
     },
     {
       "streaming_name": "EURO SPORT 2",
-      "slug-code": "euro-sport-2"
+      "slug-code": "n43d438d"
     }
   ]
 }
